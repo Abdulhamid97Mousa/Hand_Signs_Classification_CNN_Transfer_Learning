@@ -1,1 +1,0 @@
-# Hand_Signs_Milticlass_Classification_2D_CNN

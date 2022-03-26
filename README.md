@@ -13,22 +13,17 @@ After class submission method: text report, PPT report, source code, packaged in
 
 
 # Written report template（>5000 words, >10 images)
-
-# 2. Project requirements
 Task requirements:
 Training data status
-Data segmentation strategy(Train, validation, test).
-2. Task process (including details like:  hyper parameter validation, training curves, result analysis, structure, regularization,
-parameter tuning process and problem analysis and design thoughts)
-4.1 network structure design and construction
-5.2 selection and validation of hyper parameters
-6.3 the first network training and test
-7.4 do some adjustment
-8.5 the second network training and test
-……
-3. Classroom test (complete after class before final submission)
-Testing process
-Test performance, whether it meets the expectation and cause analysis.
+1. Data segmentation strategy(Train, validation, test).
+2. Task process (including details like:  hyper parameter validation, training curves, result analysis, structure, regularization, parameter tuning process and problem analysis and design thoughts)
+2.1 network structure design and construction
+2.2 selection and validation of hyper parameters
+2.3 the first network training and test
+2.4 do some adjustment
+2.5 the second network training and test
+
+3. Classroom test (complete after class before final submission) Testing process, Test performance, whether it meets the expectation and cause analysis.
 4. Course thoughts
 
 

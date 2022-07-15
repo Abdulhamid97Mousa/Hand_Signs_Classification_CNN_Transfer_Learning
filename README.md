@@ -1,8 +1,8 @@
-# Hand_Signs_Data
+# Hand Signs Classification Project Details.
 
 
-# 1. Project requirements!
-According to the form of the data set provided, you need to make 10 image samples of digital gestures under 10 different backgrounds（100 image samples totally） and save in the folders named A0 to A9. These new data will be collected before the last class.
+# 1. Class Project requirements!
+According to the form of the data set provided, you need to take 10 image samples of digital gestures/hand-Signs under 10 different backgrounds（100 image samples totally） and save in the folders named A0 to A9. These new data will be collected before the last class.
 You should design and build your own gesture image recognition network and complete the training test using the provided data set.
 In the last class, images will be collected for the final performance test, and scores will be given according to the test results. In principle, it is required that the recognition rate should be higher than 50%.
 Submission content:
